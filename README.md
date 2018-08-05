@@ -4,4 +4,4 @@
 
 Client - Browser
 
-Server - hhtp://localhost:4000
+Server - http://localhost:4000
