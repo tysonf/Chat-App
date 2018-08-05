@@ -1,6 +1,6 @@
 # Chat Room App 
 
-"Uses Express, Socket.io, nodemon"
+Uses Express, Socket.io, nodemon
 
 Client - Browser
 
